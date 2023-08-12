@@ -1,5 +1,5 @@
 #include <stdio.h>  
-#define ARRAY_SIZE 10  
+#define ARRAY_SIZE 2
   
 int main() 
 {  
